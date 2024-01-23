@@ -5,7 +5,7 @@
 ## Hi there 👋
 🌱 I’m currently learning spring and springboot.
 
-![Minjun's GitHub Status](https://github-readme-stats.vercel.app/api?username=be-anything&show_icons=true)
+![Minjun's GitHub Status](https://github-readme-stats.vercel.app/api?username=Seoungminjun&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
