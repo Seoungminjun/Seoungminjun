@@ -1,9 +1,11 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Seoungminjun/Seoungminjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=150&section=header&text=Minjeong's%20Github&fontSize=50)
 
-Here are some ideas to get you started:
+## Hi there 👋
+🌱 I’m currently learning spring and springboot.
+
+![Minjun's GitHub Status](https://github-readme-stats.vercel.app/api?username=be-anything&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
