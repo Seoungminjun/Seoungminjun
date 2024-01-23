@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=150&section=header&text=Minjun's%20Github&fontSize=50)
 
 ## Hi there 👋
-🌱 I’m currently learning spring and springboot.
+
 
 ![Minjun's GitHub Status](https://github-readme-stats.vercel.app/api?username=Seoungminjun&show_icons=true)
 
